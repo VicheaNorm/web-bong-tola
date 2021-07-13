@@ -6,10 +6,7 @@ const HeroCard = () => {
       <section className="px-4 py-4 mx-auto max-w-7xl">
         <div className="w-full mx-auto md:w-5/6">
           <div className="text-left md:text-center">
-            <p
-              style={{ fontFamily: "Angkor" }}
-              className="mb-8 text-3xl md:text-4xl font-bold tracking-widest text-blue-500 uppercase"
-            >
+            <p className="mb-8 text-3xl md:text-4xl font-bold tracking-widest text-blue-500 uppercase">
               ខេត្តកំពង់ស្ពឺ
             </p>
             <h1 className="mb-10 font-normal text-lg  text-gray-600 md:leading-snug md:text-2xl">

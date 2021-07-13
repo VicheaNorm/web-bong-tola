@@ -4,10 +4,7 @@ const CardOne = () => {
   return (
     <div className="bg-lightblue py-20 px-4 text-gray-600">
       <div className="mx-auto max-w-6xl flex flex-col md:flex-row">
-        <h2
-          style={{ fontFamily: "Angkor" }}
-          className=" mr-8 w-full md:w-1/3 text-3xl font-extrabold leading-9 text-blue-500 pb-6"
-        >
+        <h2 className=" mr-8 w-full md:w-1/3 text-3xl font-extrabold leading-9 text-blue-500 pb-6">
           តំបន់​ទាក់ទាញ
         </h2>
         <dl className="w-full md:w-2/3">

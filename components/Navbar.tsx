@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white  min-h-screen">
       <header className="sticky top-0 shadow dark:bg-gray-800">
-        <div className="container flex items-center justify-center p-6 mx-auto text-gray-600 capitalize dark:text-gray-300">
+        <div className="container flex items-center justify-center p-6 mx-auto text-gray-700 capitalize dark:text-gray-300">
           {/* <a
           href="#"
           className="text-gray-800 dark:text-gray-200 border-b-2 border-blue-500 mx-1.5 sm:mx-6"
@@ -34,10 +34,7 @@ const Navbar = () => {
         </a> */}
 
           <a href="/">
-            <p
-              style={{ fontFamily: "Angkor" }}
-              className=" sm:text-lg md:text-3xl lg:text-5xl​ hover:text-blue-500"
-            >
+            <p className="text-2xl md:text-3xl lg:text-5xl​ hover:text-blue-500">
               សូមស្វាគមន៍មកកាន់ខេត្តកំពង់ស្ពឺ
             </p>
           </a>
