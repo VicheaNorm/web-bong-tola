@@ -12,7 +12,7 @@ const Home = () => {
       <Header />
 
       <div className="w-screen">
-        <div className="py-10">
+        <div className="md:py-10">
           <CardImage />
         </div>
         <HeroCard />
