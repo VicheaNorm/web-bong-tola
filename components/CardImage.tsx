@@ -4,10 +4,7 @@ const CardImage = () => {
   return (
     <div className="flex items-center justify-center">
       <div className="flex justify-center">
-        <img
-          src="https://www.kampongspeu.gov.kh/wp-content/uploads/sites/24/2020/05/FB_IMG_1590368826732.jpg"
-          alt=""
-        />
+        <img src="/image.png" alt="header image" />
       </div>
     </div>
   );
